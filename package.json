@@ -1,0 +1,35 @@
+{
+  "name": "flame",
+  "version": "0.0.1",
+  "description": "Development (WIP) on fire.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/ ./bin/flame && coal test"
+  },
+  "dependencies":{
+    "lodash":"^4.17.4"
+  }
+  "devDependencies":{
+    "eslint":"^4.4.1",
+    "gulp":"^3.9.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flame-dev/Flame.git"
+  },
+  "keywords": [
+    "coal",
+    "desktop-development",
+    "desktop",
+    "development",
+    "flame",
+    "flamejs",
+    "flame-dev"
+  ],
+  "author": "Moses Grant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flame-dev/Flame/issues"
+  },
+  "homepage": "https://github.com/flame-dev/Flame#readme"
+}

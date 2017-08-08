@@ -1,2 +1,9 @@
 #!/usr/bin/env node
 'use strict';
+/**
+*
+*@description Executable node.js file that is run when 'npm run/start' is used.
+*@
+*@
+*
+**/
