@@ -1,17 +1,18 @@
 {
-  "name": "Flameform",
+  "name": "flameform",
   "version": "0.1.1",
   "description": "Development (WIP) on fire.",
   "main": "/flame",
   "scripts": {
     "test": "./node_modules/ ./bin/flame && coal test"
   },
-  "dependencies":{
-    "lodash":"^4.17.4"
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "lodash": "^4.17.4"
   },
-  "devDependencies":{
-    "eslint":"^4.4.1",
-    "gulp":"^3.9.1"
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "gulp": "^3.9.1"
   },
   "repository": {
     "type": "git",
@@ -31,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/flame-dev/Flame/issues"
   },
-  "homepage": "https://github.com/flame-dev/Flame#readme"
+  "homepage": "https://github.com/flame-dev/Flame#readme",
+  "directories": {
+    "test": "test"
+  }
 }
