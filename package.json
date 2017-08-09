@@ -1,8 +1,8 @@
 {
   "name": "flame",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Development (WIP) on fire.",
-  "main": "index.js",
+  "main": "/flame",
   "scripts": {
     "test": "./node_modules/ ./bin/flame && coal test"
   },
@@ -26,7 +26,7 @@
     "flamejs",
     "flame-dev"
   ],
-  "author": "Moses Grant",
+  "author": "flame-dev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flame-dev/Flame/issues"
